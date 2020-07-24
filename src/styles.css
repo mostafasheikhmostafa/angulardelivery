@@ -1,0 +1,14 @@
+.router-container{
+    position: relative;
+}
+.router-container > *{
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+
+
+}
+body{
+    overflow-x: hidden;
+}
